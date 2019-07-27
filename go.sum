@@ -1,0 +1,4 @@
+github.com/dansackett/levenshtein v0.0.0-20190718035854-9c400286b90f h1:No5+iNi97vjAp3L4SLnDdZHIPj7TgdSvfrjaVsYzwuE=
+github.com/dansackett/levenshtein v0.0.0-20190718035854-9c400286b90f/go.mod h1:9oTjRde+QXacGoqiKdXIOf6Hs4xskk/GoXwlnAY4hew=
+github.com/dansackett/radix v0.0.0-20190718034627-c3d408837f3a h1:SxPFaLPm5C1qAXBCycO+ikC2zfs0vA7ywiEo8oCnoIk=
+github.com/dansackett/radix v0.0.0-20190718034627-c3d408837f3a/go.mod h1:kitj8Tm1iqGmyKnQ1q+C4YHmDjwpnFcWOUTo1IQbzjo=
